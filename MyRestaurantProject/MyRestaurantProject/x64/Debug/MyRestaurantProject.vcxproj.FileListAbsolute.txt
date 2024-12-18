@@ -1,0 +1,5 @@
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.AssemblyReference.cache
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.LoginForm.resources
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.GenerateResource.cache
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.MainForm.resources
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\x64\Debug\MyRestaurantProject.RegisterForm.resources

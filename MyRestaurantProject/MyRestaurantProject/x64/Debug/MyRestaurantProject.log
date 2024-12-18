@@ -1,0 +1,19 @@
+﻿  LoginForm.cpp
+  Program.cpp
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\LoginForm.h(220,20): warning C4101: 'e': variável local não referenciada
+  (compilando o arquivo fonte 'LoginForm.cpp')
+  
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\LoginForm.h(220,20): warning C4101: 'e': variável local não referenciada
+  (compilando o arquivo fonte 'Program.cpp')
+  
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\RegisterForm.h(339,19): warning C4101: 'ex': variável local não referenciada
+  (compilando o arquivo fonte 'Program.cpp')
+  
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\Program.cpp(11,6): warning C4829: Parâmetros possivelmente incorretos para função main. Considere o uso de 'int main(Platform::Array<Platform::String^>^ argv)'
+  RegisterForm.cpp
+D:\VisualStudio\Codigo C++\MyRestaurantProject\MyRestaurantProject\RegisterForm.h(339,19): warning C4101: 'ex': variável local não referenciada
+  (compilando o arquivo fonte 'RegisterForm.cpp')
+  
+  Gerando Código...
+  LoginForm.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  MyRestaurantProject.vcxproj -> D:\VisualStudio\Codigo C++\MyRestaurantProject\x64\Debug\MyRestaurantProject.exe
